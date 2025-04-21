@@ -1,0 +1,20 @@
+&input
+  asr='crystal',
+  amass(1)=88.90585
+  amass(2)=44.95591
+  amass(3)=1.00794
+  flfrc='YSc2H24.fc',
+  flfrq='YSc2H24.freq',
+  q_in_band_form=.true.,
+  q_in_cryst_coord=.true.
+  la2F=.true.
+/
+8
+0.0 0.0 0.0  30 !G
+0.5 0.0 0.0  30 !M
+0.333 0.333 0.333  30 !K
+0.0 0.0 0.0  30 !G
+0.0 0.0 0.5  30 !A
+0.5 0.0 0.5  30 !L
+0.333 0.333 0.5  30 !H
+0.0 0.0 0.5  1 !A

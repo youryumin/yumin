@@ -1,0 +1,3 @@
+ &input
+  zasr='crystal',  fildyn='YSc2H24.dyn', flfrc='YSc2H24.fc', la2F=.true.
+ /
